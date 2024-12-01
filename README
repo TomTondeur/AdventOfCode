@@ -1,0 +1,6 @@
+# Tom does Advent of Code
+
+That's right, and because I'm a sucker for punishment, I'm doing it with C++ and am using it to experiment with fun language features like ranges and modules. Please don't try to replicate these techniques in a production environment (or at least don't blame me if it goes sideways).
+
+Puzzle input not included, as requested by AoC maintainer Eric Wastl on https://adventofcode.com/2024/about
+
