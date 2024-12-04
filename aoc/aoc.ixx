@@ -11,7 +11,7 @@ namespace aoc
     {
         BinFile(std::ifstream f) : f(std::move(f))
         {
-            if (!f.is_open() || !f.good())
+            if (!f.good())
             {
                 throw std::runtime_error("File is not ready for reading.");
             }
