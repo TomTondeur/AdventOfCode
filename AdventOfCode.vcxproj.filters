@@ -51,6 +51,9 @@
     <ClCompile Include="aoc\2024\Day01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="aoc\2024\Day02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input\aoc23\day02_1.txt" />
@@ -73,5 +76,7 @@
     <Text Include="input\aoc23\day09_1.txt" />
     <Text Include="input\aoc24\day01_1.txt" />
     <Text Include="input\aoc24\day01_2.txt" />
+    <Text Include="input\aoc24\day02_1.txt" />
+    <Text Include="input\aoc24\day02_2.txt" />
   </ItemGroup>
 </Project>

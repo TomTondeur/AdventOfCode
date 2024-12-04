@@ -136,6 +136,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="aoc\2024\Day01.cpp" />
+    <ClCompile Include="aoc\2024\Day02.cpp" />
     <ClCompile Include="aoc\aoc.ixx" />
     <ClCompile Include="AdventOfCode.cpp" />
     <ClCompile Include="aoc\2023\Day2.cpp" />
@@ -171,6 +172,8 @@
     <Text Include="input\aoc23\day09_2.txt" />
     <Text Include="input\aoc24\day01_1.txt" />
     <Text Include="input\aoc24\day01_2.txt" />
+    <Text Include="input\aoc24\day02_1.txt" />
+    <Text Include="input\aoc24\day02_2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
